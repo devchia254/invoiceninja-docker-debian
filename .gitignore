@@ -12,3 +12,5 @@ charts/**/charts/
 
 # Compose filesystem
 /docker
+
+debian/.env
